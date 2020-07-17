@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: NaoyukiKanezawa
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_92
+Maven-Artifact: io.socket:socket.io-client:1.0.0
+

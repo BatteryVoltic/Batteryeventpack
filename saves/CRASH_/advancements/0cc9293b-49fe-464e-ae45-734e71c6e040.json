@@ -1,0 +1,34 @@
+{
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-06-23 22:51:09 -0400"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-06-23 22:49:58 -0400"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-06-23 22:49:47 -0400"
+    },
+    "done": true
+  },
+  "rats:rats/root": {
+    "criteria": {
+      "tick": "2020-06-23 22:49:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2020-06-23 22:50:38 -0400",
+      "taiga_cold": "2020-06-23 22:49:47 -0400",
+      "river": "2020-06-23 22:50:34 -0400"
+    },
+    "done": false
+  }
+}
